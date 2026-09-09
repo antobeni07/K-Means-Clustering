@@ -1,0 +1,25 @@
+# Material de referencia local del profesor
+/funciones_notebooks_profesor.txt
+
+# Entorno, IDE, cachés y configuración local
+/.venv/
+/.idea/
+/.vscode/
+**/.directory
+**/.DS_Store
+**/__pycache__/
+*.py[cod]
+**/.ipynb_checkpoints/
+.env
+.env.*
+!.env.example
+
+# Se versionan los CSV que sí carga el notebook.
+# Las otras representaciones de los mismos datos quedan solo en disco.
+/Bases de datos/**/*.zip
+/Bases de datos/**/*.txt
+/Bases de datos/**/*.sav
+/Bases de datos/**/*.sas7bdat
+
+# Bases derivadas: se reconstruyen ejecutando el notebook.
+/Resultados/*.csv.gz

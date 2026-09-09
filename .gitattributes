@@ -1,0 +1,4 @@
+# Reconocer CRLF de los CSV como fin de línea válido.
+*.csv whitespace=cr-at-eol
+# Conservar los bytes originales entregados por el DANE.
+"Bases de datos/**/*.csv" -text

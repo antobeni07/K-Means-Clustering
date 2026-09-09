@@ -1,0 +1,37 @@
+trimestre,modulo,llave,filas_sin_llave,duplicados_por_llave,duplicados_exactos
+1,CARACTERISTICAS_GENERALES,Directorio + Secuencia_p + Orden,0,0,0
+1,EDUCACION,Directorio + Secuencia_p + Orden,0,0,0
+1,FUERZA_DE_TRABAJO,Directorio + Secuencia_p + Orden,0,0,0
+1,COMPLEMENTARIAS,Directorio + Secuencia_p + Orden,0,0,0
+1,TURISMO,Directorio + Secuencia_p + Orden,0,0,0
+1,EXCURSIONISMO,Directorio + Secuencia_p + Orden,0,0,0
+1,HOGAR,llave_hogar,0,0,0
+1,VIVIENDA,Directorio,0,0,0
+1,VIVIENDA_USO_RECREATIVO,llave_hogar + Orden,0,0,0
+2,CARACTERISTICAS_GENERALES,Directorio + Secuencia_p + Orden,0,0,0
+2,EDUCACION,Directorio + Secuencia_p + Orden,0,0,0
+2,FUERZA_DE_TRABAJO,Directorio + Secuencia_p + Orden,0,0,0
+2,COMPLEMENTARIAS,Directorio + Secuencia_p + Orden,0,0,0
+2,TURISMO,Directorio + Secuencia_p + Orden,0,0,0
+2,EXCURSIONISMO,Directorio + Secuencia_p + Orden,0,0,0
+2,HOGAR,llave_hogar,0,0,0
+2,VIVIENDA,Directorio,0,0,0
+2,VIVIENDA_USO_RECREATIVO,llave_hogar + Orden,0,0,0
+3,CARACTERISTICAS_GENERALES,Directorio + Secuencia_p + Orden,0,0,0
+3,EDUCACION,Directorio + Secuencia_p + Orden,0,0,0
+3,FUERZA_DE_TRABAJO,Directorio + Secuencia_p + Orden,0,0,0
+3,COMPLEMENTARIAS,Directorio + Secuencia_p + Orden,0,0,0
+3,TURISMO,Directorio + Secuencia_p + Orden,0,0,0
+3,EXCURSIONISMO,Directorio + Secuencia_p + Orden,0,0,0
+3,HOGAR,llave_hogar,0,0,0
+3,VIVIENDA,Directorio,0,0,0
+3,VIVIENDA_USO_RECREATIVO,llave_hogar + Orden,0,0,0
+4,CARACTERISTICAS_GENERALES,Directorio + Secuencia_p + Orden,0,0,0
+4,EDUCACION,Directorio + Secuencia_p + Orden,0,0,0
+4,FUERZA_DE_TRABAJO,Directorio + Secuencia_p + Orden,0,0,0
+4,COMPLEMENTARIAS,Directorio + Secuencia_p + Orden,0,0,0
+4,TURISMO,Directorio + Secuencia_p + Orden,0,0,0
+4,EXCURSIONISMO,Directorio + Secuencia_p + Orden,0,0,0
+4,HOGAR,llave_hogar,0,0,0
+4,VIVIENDA,Directorio,0,0,0
+4,VIVIENDA_USO_RECREATIVO,llave_hogar + Orden,0,0,0
